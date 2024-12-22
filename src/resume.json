@@ -28,84 +28,57 @@
   },
   "work": [
     {
-      "company": "PagerDuty",
-      "position": "Site Reliability Engineer",
-      "website": "https://pagerduty.com",
-      "startDate": "2023-07-14",
+      "company": "GreekLink",
+      "position": "CO-Founder and Software Engineer",
+      "website": "https://greeklink.xyz",
+      "startDate": "2024-12-10",
       "endDate": "",
-      "summary": "Part of the SRE Delivery team, I'm helping PagerDuty deliver the best experience to their customers.",
+      "summary": "GreekLink is a social media platform for fraternities and sororities. I am responsible for the front-end development of the website and our marketing efforts.",
       "highlights": []
     },
     {
-      "company": "Mindera",
-      "position": "Site Reliability Engineer",
-      "website": "https://mindera.com",
-      "startDate": "2023-03-13",
-      "endDate": "2023-07-10",
-      "summary": "A self-organizing company, time to be my own boss.",
+      "company": "Vloggi",
+      "position": "Front-End Engineering Intern",
+      "website": "https://vloggi.com",
+      "startDate": "2024-06-12",
+      "endDate": "2024-08-12",
+      "summary": "Developed and optimized web interfaces using ReactJS, integrated scalable features and configurable UI components, and streamlined media management on the Vloggi platform, while optimizing data flow with a MySQL backend using Node.js.",
       "highlights": []
     },
     {
-      "company": "feedzai",
-      "position": "Cloud Engineer",
-      "website": "https://feedzai.com",
+      "company": "President of Social Fraternity",
+      "position": "President",
+      "website": "https://fsl.umich.edu/",
+      "startDate": "2024-01-15",
+      "endDate": "2024-05-15",
+      "summary": "Manage operations for a 120-member fraternity, administer a $180,000 annual budget, collaborate with national headquarters and the Michigan Interfraternity Council, and spearhead initiatives to boost member engagement and community outreach.",
+      "highlights": []
+    },
+    {
+      "company": "Classics Lacrosse",
+      "position": "Coach",
+      "website": "https://www.classicslacrosse.com/",
       "startDate": "2021-04-26",
       "endDate": "2023-03-11",
-      "summary": "The first startup in my professional path, feedzai - a Unicorn 🦄 - fighting financial crime and fraude",
+      "summary": "Administered clinics and travel teams, coached over 300 players, managed logistics for summer camps, marketed to families via social media, and managed a $7,000 annual budget for Classics Lacrosse.",      
       "highlights": []
     },
     {
-      "company": "Self-employed",
-      "position": "Software engineering consultant",
-      "website": "https://jcoelho93.netlify.com",
-      "startDate": "2021-01-15",
-      "endDate": "",
-      "summary": "Started working for myself, providing expertise on software development and DevOps culture and best practices for international startups.",
+      "company": "SparkRacing",
+      "position": "Data Team Software Engineer",
+      "website": "https://spark.engin.umich.edu/",
+      "startDate": "2024-1-16",
+      "endDate": "2024-5-5",
+      "summary": "Member of the Project Spark Software Team, using Python to transfor bike diagnostic data to a driver-friendly format displayed on the screen.",
       "highlights": []
     },
     {
-      "company": "Bosch",
-      "position": "DevOps Engineer",
-      "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
-      "endDate": "2020-10-10",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
-      "highlights": []
-    },
-    {
-      "company": "Asseco PST",
-      "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
-      "highlights": []
-    },
-    {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
-    },
-    {
-      "company": "European GNSS Agency",
-      "position": "IT Support Trainee",
-      "website": "https://www.euspa.europa.eu/",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
-    },
-    {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Trainee",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "company": "Leadership Initatives",
+      "position": "Finance Chairman",
+      "website": "https://lichangesummer.org/",
+      "startDate": "2020-09-12",
+      "endDate": "2022-05-30",
+      "summary": "Developed 20 online fundraisers raising over $5000, conducted surveys, advocated for funding, and created educational lesson plans to fight human trafficking and bolster education in Nigeria.",
       "highlights": []
     }
   ],
@@ -133,7 +106,7 @@
       "endDate": "May 2023",
       "courses": [
         "Data Structures and Algorithms",
-        "Game Designe",
+        "Game Design",
         "Calculus I, II",
         "Micro and Macro Economics"
       ],
@@ -253,6 +226,11 @@
     {
       "name": "Golfer",
       "x_icon": "fa-golf-ball"
+    }
+  ],
+  "projects": [
+    {
+      "title": ""
     }
   ]
 }
