@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/hunters-website/static/js/main.4dfdf9ba.js",
+    "index.html": "/hunters-website/index.html",
+    "main.4dfdf9ba.js.map": "/hunters-website/static/js/main.4dfdf9ba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4dfdf9ba.js"
+  ]
+}

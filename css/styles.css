@@ -1,0 +1,84 @@
+html {
+    scroll-behavior: smooth;
+}
+.is-180x180{
+    height: 180px;
+    width: 180px;
+}
+.skill-list > li{
+    margin: 30px 0 0 0;
+}
+.has-bg-image {
+    background-image: url('../images/hunterCoding.jpeg'), url('../images/hunterCoding.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bulma-image {
+    width: 200px;
+}
+.interests {
+    display: flex;
+    justify-content: center;
+}
+.summary-text {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 36em;
+}
+.article {
+    height: 100%;
+}
+.skill-card {
+    height: 100%;
+}
+.skill-title {
+    font-weight: bold;
+}
+.skill-icon {
+    padding: 20px;
+}
+
+.title a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.education-badge {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .education-badge .image {
+    margin: 0 auto 1rem;
+  }
+  
+  .education-badge .education-info {
+    background: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .education-badge h3 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .education-badge p {
+    margin: 0.25rem 0;
+  }
+  
+  .education-badge ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    text-align: left;
+  }
+
+  .text-outline {
+    text-shadow: 
+      -1px -1px 0 #000,  
+       1px -1px 0 #000,
+      -1px  1px 0 #000,
+       1px  1px 0 #000; 
+    color: #fff; /* Optional: Set text color */
+  }
