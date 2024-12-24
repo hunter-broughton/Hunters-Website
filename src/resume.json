@@ -2,7 +2,7 @@
   "basics": {
     "name": "Hunter Broughton",
     "label": "Software Engineer",
-    "picture": "images/hunterCoding.jpeg",
+    "picture": "images/hunterTalking.jpeg",
     "x_pictureFallback": "images/hunterCoding.jpeg",
     "x_title": "Hello! I'm Hunter Broughton, glad you're here!",
     "summary": "I'm a junior studying Computer Science and Economics at the University of Michigan. Last summer I was a front-end engineering intern for Vloggi, a tech startup in Sydney, Australia. I made this website to highlight my past work, courses, projects, and much more! Here are some of my skills and personal interests: <br /><br /><ul><li><b>Front-End Web Development</b></li><li><b></b></li><li><b>Algorithm Design and Analysis</b></li><li><b>Back-End Data Management and Machine Learning</b></li></ul>",
@@ -49,8 +49,8 @@
       "company": "President of Social Fraternity",
       "position": "President",
       "website": "https://fsl.umich.edu/",
-      "startDate": "2024-01-15",
-      "endDate": "2024-05-15",
+      "startDate": "2024-05-15",
+      "endDate": "2025-05-15",
       "summary": "Manage operations for a 120-member fraternity, administer a $180,000 annual budget, collaborate with national headquarters and the Michigan Interfraternity Council, and spearhead initiatives to boost member engagement and community outreach.",
       "highlights": []
     },
@@ -67,8 +67,8 @@
       "company": "SparkRacing",
       "position": "Data Team Software Engineer",
       "website": "https://spark.engin.umich.edu/",
-      "startDate": "2024-1-16",
-      "endDate": "2024-5-5",
+      "startDate": "2024-01-10",
+      "endDate": "2024-05-05",
       "summary": "Member of the Project Spark Software Team, using Python to transfor bike diagnostic data to a driver-friendly format displayed on the screen.",
       "highlights": []
     },
@@ -76,7 +76,7 @@
       "company": "Leadership Initatives",
       "position": "Finance Chairman",
       "website": "https://lichangesummer.org/",
-      "startDate": "2020-09-12",
+      "startDate": "2020-09-10",
       "endDate": "2022-05-30",
       "summary": "Developed 20 online fundraisers raising over $5000, conducted surveys, advocated for funding, and created educational lesson plans to fight human trafficking and bolster education in Nigeria.",
       "highlights": []
@@ -230,7 +230,28 @@
   ],
   "projects": [
     {
-      "title": ""
+      "title": "Chrome Dino Time Travel",
+      "description": "Collaborated with a team to create a level-based parody of Chrome’s Dino Jumper Game, implementing data structures for level navigation, creating pixel art, and producing original background music.",
+      "url": "https://github.com/mkPuzon/CS269DinoGame",
+      "x_image": "images/dino.webp"
+    },
+    {
+      "title": "Greek Link",
+      "description": "Developed GreekLink, a social platform for enhancing College Greek Life, using React.js for a responsive front-end, web scraping for data aggregation, and integrating third-party APIs for optimized performance.",
+      "url": "https://greeklink.xyz",
+      "x_image": "images/DJHH.jpg"
+    },
+    {
+      "title": "Searching Through a Grid",
+      "description": "A Java program that implements the scientific method to test the efficiency of various search algorithms (BFS, DFS, and A*) on a grid. The program uses a custom-built data structures to store the grid and a GUI to visualize the search.",
+      "url": "",
+      "x_image": "images/MYGRID.png"
+    },
+    {
+      "title": "United States TSP Solver",
+      "description": "A Java program that implements Prims algorithm to solve the Traveling Salesman Problem for the United States. The program uses a custom-built data structure to store the cities and PRIMs algorithm to find the shortest path and minimum spanning tree.",
+      "url": "",
+      "x_image": "images/USATSP.png"
     }
   ]
 }
